@@ -36,6 +36,6 @@ int main()
     result=aobj1.Addition();
 
     cout<<"addition is:"<<result<<"\n";
-    
+
     return 0;
 }

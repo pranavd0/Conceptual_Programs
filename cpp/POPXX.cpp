@@ -6,6 +6,7 @@ struct Arithematic
     int no1;
     int no2;
 };
+
 int main(){
 
     Arithematic aobj1;
@@ -16,7 +17,6 @@ int main(){
 
     aobj2.no1=10;
     aobj2.no1=11;
-
 
     return 0;
 }
