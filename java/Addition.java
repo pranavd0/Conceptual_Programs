@@ -15,6 +15,8 @@ class Addition
         ans=no1+no2;
         System.out.println("Addition:"+ans);
 
+        sobj.close();
+
     }
 
 }
